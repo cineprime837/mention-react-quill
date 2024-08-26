@@ -17,7 +17,7 @@ const Editor = () => {
     //     }
     
     //     setInput(content);
-    //     // if(value.ops[value.ops.length-1].insert == "@"){
+    //     // if(value.ops[value.ops.length-1] laptop laptop laptop laptop laptop laptop laptop eeroju hello where are you Vijay yeah Beyoncé hide Play Chris.insert == "@"){
     //     //   console.log("start insert @")
     //     // }
     //   };
